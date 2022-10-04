@@ -1,0 +1,15 @@
+/Users/aebin/Desktop/c#_programming/bin/Debug/net5.0/c#_programming.deps.json
+/Users/aebin/Desktop/c#_programming/bin/Debug/net5.0/c#_programming.runtimeconfig.json
+/Users/aebin/Desktop/c#_programming/bin/Debug/net5.0/c#_programming.runtimeconfig.dev.json
+/Users/aebin/Desktop/c#_programming/bin/Debug/net5.0/c#_programming.dll
+/Users/aebin/Desktop/c#_programming/bin/Debug/net5.0/ref/c#_programming.dll
+/Users/aebin/Desktop/c#_programming/bin/Debug/net5.0/c#_programming.pdb
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.csproj.AssemblyReference.cache
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.AssemblyInfoInputs.cache
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.AssemblyInfo.cs
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.csproj.CoreCompileInputs.cache
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.dll
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/ref/c#_programming.dll
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.pdb
+/Users/aebin/Desktop/c#_programming/obj/Debug/net5.0/c#_programming.genruntimeconfig.cache
